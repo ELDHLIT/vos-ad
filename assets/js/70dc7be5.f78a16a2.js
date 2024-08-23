@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[4952],{8591:e=>{e.exports=JSON.parse('{"tags":[{"label":"Harmonic","permalink":"/vos-ad/blog/tags/harmonic","count":1},{"label":"Ad Insertion","permalink":"/vos-ad/blog/tags/ad-insertion","count":1}]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"The Ultimate Guide to SSAI and DAI","permalink":"/vos-ad/blog/ultimate-guide","unlisted":false,"date":"2023-07-26T00:00:00.000Z"}]}')}}]);
